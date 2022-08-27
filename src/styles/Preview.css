@@ -1,0 +1,6 @@
+.preview {
+    margin: 20px 50px;
+}
+.preview > h1 {
+    font-weight: 600;
+}

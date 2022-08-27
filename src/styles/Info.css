@@ -1,0 +1,15 @@
+.info {
+    margin: 20px 50px;
+}
+.info > h1 {
+    margin: 0;
+    font-weight: 600;
+    user-select: none;
+}
+.info > .inputs {
+    display: flex;
+    flex-direction: column;
+}
+.info > .inputs > input {
+    margin-bottom: 5px;
+}
